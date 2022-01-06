@@ -72,18 +72,21 @@ margin-left: 20px;
 }
 
 .documentation{
-  margin-left: 200px;
+  margin: 0;
 }
 .documentation-2{
   margin-right: 200px;
   margin-top: 200px;
 }
 .docu-2-image img{
- width: 150%;
- margin-left: 220px;
+ width:70%;
+ margin-left: 60px;
 
 }
 .doc-1-image img{
-  width: 150%;
+  width: 70%;
 
+}
+.width-second{
+  margin-right:9%;
 }
