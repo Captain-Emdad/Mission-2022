@@ -8,7 +8,7 @@ body{
 .header-2{
    font-size: 40px;
 }
-section{
+.flexible-container{
  display: flex;
 }
 .width{
@@ -33,4 +33,33 @@ margin-left: 20px;
   border-image: linear-gradient(orange,tomato);
   border-image-slice: 1;
  padding-left: 15px;
+}
+.second-header{
+  text-align: center;
+  font-size: 30px;
+ 
+}
+#illustrators{
+  width: 40%;
+ 
+}
+.box-shadow{
+  box-shadow: 10px 10px 40px gray;
+  margin-left: 19px;
+  margin-right: 21px;
+  padding-left: 15px;
+  padding-right: 18px;
+}
+.mission-three{
+  margin-left: 80px;
+  margin-right: 70px;
+}
+.background-color-1{
+  background-color: lightcyan;
+}
+.background-color-2{
+  background-color: pink;
+}
+.background-color-3{
+  background-color: tan;
 }
