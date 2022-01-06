@@ -63,3 +63,27 @@ margin-left: 20px;
 .background-color-3{
   background-color: tan;
 }
+.second-image img{
+  width: 100%;
+}
+.second-image{
+  margin-top: 200px;
+
+}
+
+.documentation{
+  margin-left: 200px;
+}
+.documentation-2{
+  margin-right: 200px;
+  margin-top: 200px;
+}
+.docu-2-image img{
+ width: 150%;
+ margin-left: 220px;
+
+}
+.doc-1-image img{
+  width: 150%;
+
+}
