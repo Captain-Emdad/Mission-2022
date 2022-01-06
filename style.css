@@ -70,7 +70,9 @@ margin-left: 20px;
   margin-top: 200px;
 
 }
-
+.heading-font{
+  font-size: 38px;
+}
 .documentation{
   margin: 0;
 }
@@ -89,4 +91,37 @@ margin-left: 20px;
 }
 .width-second{
   margin-right:9%;
+}
+.box-shadow-2{
+
+  box-shadow: 10px 10px 40px gray;
+  margin-left: 19px;
+  margin-right: 21px;
+  padding-left: 15px;
+  padding-right: 18px;
+  border-radius: 5px;
+}
+.box-shadow-2 img{
+  width: 30%;
+}
+.myself{
+  text-align: center;
+}
+.about{
+  color: green;
+  font-size: 40px;
+}
+footer{
+  text-align: center;
+  color: aliceblue;
+  background-color: black;
+  margin-top: 230px;
+  padding: 2%;
+}
+.footer{
+  color: coral;
+  font-size: 30px;
+
+
+
 }
